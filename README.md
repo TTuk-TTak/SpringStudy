@@ -1,2 +1,2 @@
 # ChoiYunSoo
-yunsoo's repo
+최윤수
