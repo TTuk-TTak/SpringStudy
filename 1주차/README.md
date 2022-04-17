@@ -78,7 +78,7 @@ public class Main {
 
 EX) 클래스 계층도 (Maven 의존 그래프)
 
-![KakaoTalk_20220417_203317345.jpg](1%E1%84%8C%E1%85%AE%E1%84%8E%E1%85%A1%209b6fd/KakaoTalk_20220417_203317345.jpg)
+![KakaoTalk_20220417_203317345](https://user-images.githubusercontent.com/67628725/163713492-414033eb-d44a-4c84-ac49-c56219a76515.jpg)
 
 - BeanFactory
     - 가장 상단에 위치한 인터페이스
